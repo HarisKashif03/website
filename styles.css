@@ -73,7 +73,7 @@ nav input {
 }
 nav .checkbox i {
   font-size: 2rem;
-  color: var(--primary-color);
+  color: #ffffff;
   cursor: pointer;
 }
 
@@ -239,9 +239,6 @@ ul li a:hover {
     margin: auto;
   }
 
-  .action__btns1 {
-    margin: auto;
-  }
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -334,4 +331,12 @@ input[type=submit]:hover {
 
 .imglogo img{
     position:-ms-page;
+}
+
+.ri-menu-line{
+    color: #ffffff;
+}
+
+.box{
+    background-color: #01b2e1;  
 }
